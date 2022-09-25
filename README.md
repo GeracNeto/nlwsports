@@ -46,7 +46,7 @@
 
 <img src="Images/webhome.jpeg"/>
 
-## Modal - Criara Anúncio
+## Modal - Criar Anúncio
 
 <img src="Images/webmodal.jpeg">
 
