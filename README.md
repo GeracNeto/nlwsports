@@ -27,6 +27,7 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" title="React" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" alt="Expo" title="Expo" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tail" title="Tail" width="40" height="40"/>
+  <img src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_prisma.svg" alt="Prisma" title="Prisma" width="40" height="40"/>
 </div>
 <br>
 
